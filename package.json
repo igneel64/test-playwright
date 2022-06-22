@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "DEBUG=pw:api playwright test --project=chromium"
+    "test": "DEBUG=pw:api playwright test --project=chromium",
+    "tracer": "playwright show-trace ./test-results/example-Getting-started-should-check-the-page-title-chromium/trace.zip"
   },
   "keywords": [],
   "author": "",
