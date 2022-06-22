@@ -1,0 +1,419 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "_ga_D6HTTJZ1G3",
+      "value": "GS1.1.1655934732.1.0.1655934732.60",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1719006732,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "\"2",
+      "value": "1",
+      "domain": ".greca.adman.gr",
+      "path": "/",
+      "expires": 1663710732,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__cf_bm",
+      "value": "aLsRo4kMSilMark.fS6xLZvWo4qVa4hFXwuT83LEgOo-1655934732-0-AUdPqMeSXkn+kSa8+L2Od7K0kKKSvtm064KMiA9Wi01ebc0hbHWJaDdEUT7x8f00SWh4YFCjHMud/sNNKFMZLI4=",
+      "domain": ".skroutz.gr",
+      "path": "/",
+      "expires": 1655936532.345029,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "MUID",
+      "value": "16BCDC8A87386F1B1A8BCD4186576E0A",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1689630732.491533,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "_ttp",
+      "value": "2Awy2AqbbFH4SV2eXEeq1dYSmT2",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1689630732.767031,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_uetsid",
+      "value": "92b27ca0f27511ec823ea7b42fed30a4",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1656021132,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_uetvid",
+      "value": "92b259d0f27511ec9fa031c9cabf4ddc",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1689630732,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_tt_enable_cookie",
+      "value": "1",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1689630732,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_ttp",
+      "value": "4b8aa56f-6e78-4592-be3f-63f9a9431881",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1689630732,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__kla_id",
+      "value": "eyIkcmVmZXJyZXIiOnsidHMiOjE2NTU5MzQ3MzMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmNvc21vc3Nwb3J0LmdyLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY1NTkzNDczMywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuY29zbW9zc3BvcnQuZ3IvIn19",
+      "domain": "www.cosmossport.gr",
+      "path": "/",
+      "expires": 1719006732,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "PrestaShop-fede1d42500b368c6d81c7f82833059c",
+      "value": "V%2BxajrIu9e4zL%2FyBvkF9lKI7qHh7UB5uCfxmKd01f94ZK9kw5htB5%2FTepyLSy9BbnHczZNeIM5P%2B6vzy4hnFEGUYu01B4FJ4PIEDBUx9yUY%3D000074",
+      "domain": ".www.cosmossport.gr",
+      "path": "/",
+      "expires": 1656539533.228114,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_ga",
+      "value": "GA1.2.1544890884.1655934732",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1719006733,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gid",
+      "value": "GA1.2.1874542802.1655934733",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1656021133,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_dc_gtm_UA-8642399-1",
+      "value": "1",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1655934793,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gcl_au",
+      "value": "1.1.91199925.1655934733",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1663710733,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "gp_e",
+      "value": "0",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1658526733,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "gp_g",
+      "value": "0",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "gp_s",
+      "value": "197486369.1655934734",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1658526733,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "glm_usr_tmp",
+      "value": "54e391e8a71342528d7be4a73b606c82_1671490333",
+      "domain": ".glami.gr",
+      "path": "/",
+      "expires": 1687470733.782652,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "glm_usr",
+      "value": "75119cf3bd25be900a8206bd92456b20_1671490334",
+      "domain": ".glami.gr",
+      "path": "/",
+      "expires": 1687470733.846772,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_fbp",
+      "value": "fb.1.1655934733883.1728891483",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1663710749,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "uid",
+      "value": "e03948bd-90f5-49ab-9531-d3035f54644c",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1689630733.720736,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "cto_bundle",
+      "value": "u1WcQ19xRTVOUkRoN1hVTHZIc3BFN3A2VTBtMGhyUWRjdWZCOXVaZVhFN2Q1OSUyQmwzTWtud1YlMkZoam8ybGNJZFo5UDBJUUpqRzBhWUJlQm9PYyUyQlkyT0Q4bVk1Nm1JeGYlMkZ0eno2VEFHSTlBZ1RBNjRrQVN0c3dTOG5wdGVBYVJDMGd2STZLQWwxSFY1UFYwaiUyRlJwMmtMN0xZdFdRJTNEJTNE",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1690098734,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "CMID",
+      "value": "YrOPD2are.sv-N9MxrD9lQAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1687470735.861778,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "CMPS",
+      "value": "206",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1663710735.861832,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "CMPRO",
+      "value": "206",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1663710735.861846,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "IDE",
+      "value": "AHWqTUnWWpJjrX5F2hJ8FrXrWA1vEZUZbjwE1t7g6dxxnKOmZRr2y5PQRSCClE7r7rQ",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1689630735.759744,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "A3",
+      "value": "d=AQABBA-Ps2ICEHN_cqBuQzNw1lq2p5kLoNcFEgEBAQHgtGK9YgAAAAAA_eMAAA&S=AQAAAmEF_Nfrl_YPJt6QmeO6zFY",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1687492337.347975,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "IDSYNC",
+      "value": "18zh~25lx",
+      "domain": ".analytics.yahoo.com",
+      "path": "/",
+      "expires": 1687470735.920727,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "uuid2",
+      "value": "5836550721265753250",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1663710736.504129,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "tuuid",
+      "value": "407d8490-b5b0-4a10-81eb-d3480d6f69da",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1687470736.395949,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "c",
+      "value": "1655934736",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1687470736.256825,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "tuuid_lu",
+      "value": "1655934736",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1687470736.396021,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "anj",
+      "value": "dTM7k!M4/8D>6NRF']wIg2GTrhceRN!fss0=Ir4A3KL9D3I?-`@A9TF",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1663710736.381792,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "obuid",
+      "value": "e800bc3f-aae9-4aed-ad2f-129ceee187b0",
+      "domain": ".outbrain.com",
+      "path": "/",
+      "expires": 1663710736.480451,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "criteo",
+      "value": "k-oVxtL66UXv6ZXmBSghYDdI4j5bu27VZ_vvInAw",
+      "domain": ".outbrain.com",
+      "path": "/",
+      "expires": 1657144336.480483,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gali",
+      "value": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+      "domain": ".cosmossport.gr",
+      "path": "/",
+      "expires": 1655934779,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "CookieConsent",
+      "value": "{stamp:%27sh+30ihI8ZTMLrV6VSoH/G6BBLb7JmoTls09PxGr+cF/1D1aSlR+Mg==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1655934749539%2Cregion:%27gr%27}",
+      "domain": "www.cosmossport.gr",
+      "path": "/",
+      "expires": 1687470749,
+      "httpOnly": false,
+      "secure": true
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.cosmossport.gr",
+      "localStorage": [
+        {
+          "name": "cto_bundle",
+          "value": "u1WcQ19xRTVOUkRoN1hVTHZIc3BFN3A2VTBtMGhyUWRjdWZCOXVaZVhFN2Q1OSUyQmwzTWtud1YlMkZoam8ybGNJZFo5UDBJUUpqRzBhWUJlQm9PYyUyQlkyT0Q4bVk1Nm1JeGYlMkZ0eno2VEFHSTlBZ1RBNjRrQVN0c3dTOG5wdGVBYVJDMGd2STZLQWwxSFY1UFYwaiUyRlJwMmtMN0xZdFdRJTNEJTNE"
+        },
+        {
+          "name": "kustomer-chat-tracking-token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYjM4ZjBkY2EyYjlhMmFkYTlmZWE1YyIsIm9yZyI6IjYwYjdkNGE3NmM4YTE0MjExNzhmNDIwNSIsInZlcmlmaWVkIjpmYWxzZSwiZXhwIjoxNjU4NTI2NzMyLCJhdWQiOiJ1cm46Y29uc3VtZXIiLCJpc3MiOiJ1cm46YXBpIn0.SUR2R5lZacXysuRL8JwiGMLRriqZBRiZLZQ01NgtslY"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Thu, 23 Jun 2022 21:52:34 GMT"
+        },
+        {
+          "name": "_uetsid",
+          "value": "92b27ca0f27511ec823ea7b42fed30a4"
+        },
+        {
+          "name": "klaviyoOnsite",
+          "value": "{\"viewedForms\":{\"modal\":{\"disabledForms\":{},\"viewedForms\":{}}}}"
+        },
+        {
+          "name": "_uetvid",
+          "value": "92b259d0f27511ec9fa031c9cabf4ddc"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Mon, 17 Jul 2023 21:52:34 GMT"
+        }
+      ]
+    }
+  ]
+}
